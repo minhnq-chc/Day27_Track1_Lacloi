@@ -1,9 +1,16 @@
+# Python & Cache
 __pycache__/
 *.py[cod]
 *$py.class
+*.tmp
+
+# IDE & OS
 .vscode/
 .idea/
 .DS_Store
 Thumbs.db
 ~$*.xlsx
-*.tmp
+
+# Lecture materials & Raw handouts (do not commit instructor files)
+*.pdf
+CS12_BaiTap_HocVien.xlsx

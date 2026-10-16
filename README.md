@@ -1,6 +1,6 @@
-# Track1_Day27 — Đánh Giá Sản Phẩm AI (AI Evaluation · CS12)
+# Day27_Track01_Lacloi — Đánh Giá Sản Phẩm AI (AI Evaluation · CS12)
 
-> **Repository:** `Track1_Day27_2A202602432_NinhQuangMinh`  
+> **Repository:** `Day27_Track01_Lacloi`  
 > **Khóa học:** VinUni AI Thực Chiến — Cohort 04 (L34A) — Track 01  
 > **Chủ đề:** Khung đánh giá toàn diện cho Trợ lý AI đổi trả thời trang Mộc Store  
 > **Đi kèm bộ bài giảng:** "AI Evaluation" của chị Mai Anh Nguyen (VinAI / VinUni)  
@@ -21,21 +21,19 @@
 
 ---
 
-## 2. 🎯 Cấu Trúc Thư Mục Repository
+## 2. 🎯 Cấu Trúc Thư Mục Repository Chuẩn
 
 ```text
-Track1_Day27_2A202602432_NinhQuangMinh/
+Day27_Track01_Lacloi/
 ├── [Lacloi]_CS12.xlsx                 # File Excel bài làm chính thức nộp VLearn (đạt 100% tự kiểm tra)
-├── CS12_BaiTap_HocVien.xlsx           # File phôi bài tập gốc từ ban tổ chức
 ├── README.md                          # Tài liệu tổng quan, phân công và báo cáo kết quả
 ├── docs/
 │   └── 01_kien_truc_va_lo_trinh_danh_gia.md # Báo cáo chuyên sâu giải trình lý thuyết và kết quả X1–X7
 ├── emails/
 │   └── thong_bao_nhom_day27.md        # Mẫu email thông báo phân công và tiến độ cho 4 thành viên
-├── scripts/
-│   ├── fill_workbook.py               # Script điền tự động dữ liệu chuẩn xác vào file Excel
-│   └── verify_workbook.py             # Script kiểm tra tự động 100% điều kiện logic và công thức
-└── Track 1 - Day 27 - *.pdf           # Tài liệu đề bài và slide bài giảng của chị Mai Anh Nguyen
+└── scripts/
+    ├── fill_workbook.py               # Script điền tự động dữ liệu chuẩn xác vào file Excel
+    └── verify_workbook.py             # Script kiểm tra tự động 100% điều kiện logic và công thức
 ```
 
 ---
