@@ -1,6 +1,6 @@
 # Day27_Track01_Lacloi — Đánh Giá Sản Phẩm AI (AI Evaluation · CS12)
 
-> **Repository:** `Day27_Track01_Lacloi`  
+> **Repository:** `Day27_Track1_Lacloi`  
 > **Khóa học:** VinUni AI Thực Chiến — Cohort 04 (L34A) — Track 01  
 > **Chủ đề:** Khung đánh giá toàn diện cho Trợ lý AI đổi trả thời trang Mộc Store  
 > **Đi kèm bộ bài giảng:** "AI Evaluation" của chị Mai Anh Nguyen (VinAI / VinUni)  
